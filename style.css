@@ -1,0 +1,15 @@
+body {
+  background-color: #ffc0cb;
+  font-family: garamond, georgia, serif;
+  padding-left: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+img {
+  width: 200px;
+}
+
+h4 {color: gray; text-decoration: underline;}
+h2 {color: gray; text-align: center; font-size: 24pt; padding-bottom: 30px;}
+h5 {padding-bottom: 30px; border: white solid; text-align: center; padding-top: 20px}
+
